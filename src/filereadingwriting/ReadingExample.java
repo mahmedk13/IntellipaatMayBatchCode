@@ -18,6 +18,8 @@ public class ReadingExample {
 //			System.out.println(str);
 //		}
 		
+		System.out.println("added new line");
+		
 		lines.forEach(str->System.out.println(str));
 		
 
